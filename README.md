@@ -1,2 +1,3 @@
-# Templete-One-Html-Css
-Templete One  Using Html&amp;Css
+# Template-One-Html-Css
+Template One  Using Html&amp;Css
+
